@@ -37,7 +37,7 @@ Key strengths and why you should hire me:
   </li>
 </ul>
 
-Please visit my portfolio for detailed stats and accomplishments: https://jdavis0607.github.io
+Feel free to visit my portfolio for detailed stats and accomplishments: https://jdavis0607.github.io
 
 <table>
 <tr>
