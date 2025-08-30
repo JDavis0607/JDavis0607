@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **JDavis0607/JDavis0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+<tr>
+<!--<th>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JDavis0607&show_icons=true&theme=holi&rank_icon=github&ring_color=FFFF00" />
+</th>-->
+<th>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDavis0607&theme=holi&custom_title=Most&nbsp;Used&nbsp;Languages&layout=donut" />
+</th>
+</tr>
+</table>
